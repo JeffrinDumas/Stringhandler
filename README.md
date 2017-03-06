@@ -1,7 +1,7 @@
 # Stringhandler
 
 ### Site link
-[Site ](http://21254.hosts.ma-cloud.nl/www/bae/Les1/stringhandler_basis.php "Stringhandler")
+[Stringhander Site](http://21254.hosts.ma-cloud.nl/www/bae/Les1/stringhandler_basis.php "Stringhandler")
 
 ## De code van Stringhandler opdracht
 <!DOCTYPE html>
