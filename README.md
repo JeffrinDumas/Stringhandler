@@ -59,4 +59,5 @@
 				<h4>Bonus opdracht: na submitten form, schrijf de eerder ingevoerde strings terug met PHP</h4>
 			</div>
 	 </body>
+	 
 </html>
