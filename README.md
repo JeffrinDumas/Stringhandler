@@ -1,9 +1,15 @@
 # Stringhandler
 
 ### Site link
-[Stringhander Site](http://21254.hosts.ma-cloud.nl/www/bae/Les1/stringhandler_basis.php "Stringhandler")
+[Stringhander Site](http://21254.hosts.ma-cloud.nl/bewijzenmap/periode3/Les3/switch.php "switch")
 
-##Waarom StringHandler?
-string handler laat zien hoe je verschillende opties hebt om met strings te werken.
+##Calculator met switch
+De Switch calculator laat de input van de inputfields calculeren aan de hand van de operator.
 
-Met de inputfields kan je woorden, cijfers en tekens invullen en de stringhandler doet er verschillende dingen mee.
+De mogelijke operators zijn:
+    +
+    *
+    -
+en  /
+
+Als je niets in vult geeft hij het ook terug.
